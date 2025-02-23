@@ -16,8 +16,6 @@
         <span style="margin: 0 10px; color: white; font-size: 14px;"></span>
     </span>
 </p>
-# ⚡ Prometheus AI - Decentralized AI System On ExSAT
-
 
 Prometheus AI is a decentralized, modular artificial intelligence system designed to integrate ExSat's blockchain infrastructure, ElizaOS's multi-agent framework, and DeepSeek's advanced inference capabilities.
 
@@ -31,29 +29,29 @@ It transforms ExSat from a blockchain infrastructure into a comprehensive platfo
 
 1. Introducing Decentralized AI Applications
 
-  - Enhancing ExSat's Application Layer Ecosystem: Through Prometheus AI, the ExSat network can support more complex decentralized applications (e.g., on-chain financial analysis, smart contract auditing, cross-chain asset management), enriching its ecosystem.
-  - Improving User Experience: Prometheus AI offers personalized on-chain assistant services such as real-time BTC asset analysis and dynamic staking suggestions, providing users with more intuitive and efficient interactions.
+    - Enhancing ExSat's Application Layer Ecosystem: Through Prometheus AI, the ExSat network can support more complex decentralized applications (e.g., on-chain financial analysis, smart contract auditing, cross-chain asset management), enriching its ecosystem.
+    - Improving User Experience: Prometheus AI offers personalized on-chain assistant services such as real-time BTC asset analysis and dynamic staking suggestions, providing users with more intuitive and efficient interactions.
 
 2. Driving Innovation in BTC Native Asset Management
 
-  - Prometheus AI can leverage ExSat's BTC data indexing capabilities to develop decentralized custody platforms, enabling the secure flow and issuance of BTC native assets.
-  - With DeepSeek's inference capabilities, Prometheus AI can provide real-time market analysis and automated trading strategy support for BTCFi applications.
+    - Prometheus AI can leverage ExSat's BTC data indexing capabilities to develop decentralized custody platforms, enabling the secure flow and issuance of BTC native assets.
+    - With DeepSeek's inference capabilities, Prometheus AI can provide real-time market analysis and automated trading strategy support for BTCFi applications.
 
 3. Lowering Developer Barriers and Attracting More Participants
 
-  - By utilizing ElizaOS's plugin system, developers can easily extend Prometheus AI's functionality without needing in-depth knowledge of the underlying code to quickly build custom applications.
-  - DeepSeek and io.net offer low-cost, high-performance computing power, making large-scale model training and deployment affordable for small and medium-sized development teams.
+    - By utilizing ElizaOS's plugin system, developers can easily extend Prometheus AI's functionality without needing in-depth knowledge of the underlying code to quickly build custom applications.
+    - DeepSeek and io.net offer low-cost, high-performance computing power, making large-scale model training and deployment affordable for small and medium-sized development teams.
 
 4. Enhancing ExSat Network Security and Scalability
 
-  - Prometheus AI integrates GoPlus security plugins via ElizaOS to provide professional-grade Web3 security for ExSat.
-  - Its decentralized computing architecture reduces reliance on single points of failure, improving the overall stability and scalability of the network.
+    - Prometheus AI integrates GoPlus security plugins via ElizaOS to provide professional-grade Web3 security for ExSat.
+    - Its decentralized computing architecture reduces reliance on single points of failure, improving the overall stability and scalability of the network.
 
 5. Fostering BTC Ecosystem Integration with Web3
 
-  - Prometheus AI connects BTC with the EVM-compatible ecosystem through intelligent agents, enabling seamless BTC flow across multi-chain environments.
+    - Prometheus AI connects BTC with the EVM-compatible ecosystem through intelligent agents, enabling seamless BTC flow across multi-chain environments.
 
-  - It supports native application development based on the UTXO model, injecting more innovation into the Bitcoin ecosystem.
+    - It supports native application development based on the UTXO model, injecting more innovation into the Bitcoin ecosystem.
 
 
 ### Technical Architecture
@@ -63,25 +61,25 @@ It transforms ExSat from a blockchain infrastructure into a comprehensive platfo
 ### Core Features
 
 1. ElizaOS-Supported Intelligent Agent System
-  - Prometheus AI leverages ElizaOS's plugin-based architecture to develop dedicated plugins for the ExSat network. These plugins enable seamless integration with ExSat's dual-mining mechanism and BTC native asset management functions. Through this integration, Prometheus AI can run intelligent agents on ElizaOS to support complex on-chain interactions and data processing.
+    - Prometheus AI leverages ElizaOS's plugin-based architecture to develop dedicated plugins for the ExSat network. These plugins enable seamless integration with ExSat's dual-mining mechanism and BTC native asset management functions. Through this integration, Prometheus AI can run intelligent agents on ElizaOS to support complex on-chain interactions and data processing.
 2. DeepSeek-Powered Decentralized Computing
-  - Prometheus AI deploys DeepSeek models on the io.net decentralized GPU network to leverage its high-performance computing capabilities for large-scale inference and training tasks. DeepSeek's openness and cost efficiency allow Prometheus AI to achieve decentralized computing in a more effective and economical way.
+    - Prometheus AI deploys DeepSeek models on the io.net decentralized GPU network to leverage its high-performance computing capabilities for large-scale inference and training tasks. DeepSeek's openness and cost efficiency allow Prometheus AI to achieve decentralized computing in a more effective and economical way.
 3. Fully Decentralized Computation and Storage
-  - By migrating all computational tasks from centralized cloud services to DeepSeek and io.net networks, Prometheus AI achieves truly decentralized AI inference and storage. This architecture not only enhances data privacy but also strengthens system resilience and security.
+    - By migrating all computational tasks from centralized cloud services to DeepSeek and io.net networks, Prometheus AI achieves truly decentralized AI inference and storage. This architecture not only enhances data privacy but also strengthens system resilience and security.
 4. Multi-Modal and Multi-Platform Support
-  - Prometheus AI supports multi-modal inputs such as text, voice, and images while integrating with platforms like Telegram, Twitter, Discord via ElizaOS's interface layer for cross-platform intelligent interactions.
+    - Prometheus AI supports multi-modal inputs such as text, voice, and images while integrating with platforms like Telegram, Twitter, Discord via ElizaOS's interface layer for cross-platform intelligent interactions.
 
 ### Use Case
 
 - Decentralized Knowledge Graph (DKG) Prometheus AI agents can utilize decentralized knowledge graphs (e.g., OriginTrail DKG) for storing and retrieving knowledge:
-  - Insights generated from Bitcoin block data or other on-chain information can be verifiably stored.
-  - Agents can achieve collaborative learning through shared memory systems.
+    - Insights generated from Bitcoin block data or other on-chain information can be verifiably stored.
+    - Agents can achieve collaborative learning through shared memory systems.
 - Enhanced Validator Node Operations Validator nodes in the ExSat network can use Prometheus AI to optimize their operations:
-  - Predictive analysis of staking strategies based on historical blockchain data.
-  - Automated decision-making for transaction validation or block proposals.
+    - Predictive analysis of staking strategies based on historical blockchain data.
+    - Automated decision-making for transaction validation or block proposals.
 - Web3 Native Applications Prometheus AI supports developers in building Bitcoin-based dApps with advanced AI functionalities:
-  - Automating smart contracts using DeepSeek inference outputs.
-  - Providing personalized financial services through ElizaOS agents integrated with ExSat wallets.
+    - Automating smart contracts using DeepSeek inference outputs.
+    - Providing personalized financial services through ElizaOS agents integrated with ExSat wallets.
 
 ### Roadmap
 
@@ -134,11 +132,6 @@ pnpm build
 - [React Icons](https://react-icons.github.io/react-icons) – Beautifully simple, pixel-perfect icons
 
 The [ui.shadcn.com](https://ui.shadcn.com) components are included in the `/components/shared/ui` folder.
-
-### 💻 Developer Experience
-
-
-
 
 
 ### Acknowledgements
